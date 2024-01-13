@@ -14,7 +14,7 @@
 - 🌱 I'm currently learning and building scalable backend services for fleet operations. Which includes, real-time vehicle tracking, real-time alerts, data analytics, and many more!
 - 😄 Feel free to explore my repositories—I hope you discover something valuable!
 
-<img src="" />
+<img src="readmeGIF.gif" />
 
 <!-- About section: END -->
  

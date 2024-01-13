@@ -1,20 +1,20 @@
 <!-- Heading -->
-<h3 align="center"><img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> Hi there! I'm Nishin</h3>
+<h3 align="center"><img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> Hi there! I'm  <a href="https://www.linkedin.com/in/nishins616/">Nishin</a></h3>
 
 <!-- Profile Views -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nish616&label=Profile%20views&color=0e75b6&style=flat" alt="isrealodejobi" />
 </p>
 
-<p align="center">
-  <a href="https://www.giftegwuenu.dev">Website</a> •
-  <a href="https://www.linkedin.com/in/nishins616/">LinkedIn</a>
-</p>
-
  <!-- About section -->
 
 ---
-✨ I'm a full-stack dev with expertise in Javascript and passionate about making web scalable web apps. 
+✨ Welcome to my profile! 
+- ⚡ I'm a full-stack dev with expertise in Javascript and passionate about making web apps.
+- 🌱 I'm currently learning and building scalable backend services for fleet operations. Which includes, real-time vehicle tracking, real-time alerts, data analytics, and many more!
+- 😄 Feel free to explore my repositories—I hope you discover something valuable!
+
+<img src="" />
 
 <!-- About section: END -->
  

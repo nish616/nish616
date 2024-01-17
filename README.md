@@ -11,7 +11,7 @@
 ---
 ✨ Welcome to my profile! 
 - ⚡ I'm a full-stack dev with expertise in Javascript and passionate about making web apps.
-- 🌱 I'm currently learning and building scalable backend services for fleet operations. Which includes, real-time vehicle tracking, real-time alerts, data analytics, and many more!
+- 🌱 I'm currently building scalable backend services for fleet operations. Which includes, real-time vehicle tracking, real-time alerts, data analytics, and many more!
 - 😄 Feel free to explore my repositories—I hope you discover something valuable!
 
 <img src="readmeGIF.gif" />

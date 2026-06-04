@@ -1,45 +1,37 @@
 <!-- Heading -->
-<h3 align="center"><img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> Hi there! I'm  <a href="https://www.linkedin.com/in/nishins616/">Nishin</a></h3>
 
-<!-- Profile Views -->
+<h3 align="center">
+  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+  Hi there! I'm <a href="https://www.linkedin.com/in/nishins616/">Nishin</a>
+</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nish616&label=Profile%20views&color=0e75b6&style=flat" alt="isrealodejobi" />
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=nish616&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
- <!-- About section -->
-
 ---
-✨ Welcome to my profile! 
-- ⚡ I'm a full-stack dev with expertise in Javascript and passionate about making web apps.
-- 🌱 I'm currently building scalable backend services for fleet operations. Which includes, real-time vehicle tracking, real-time alerts, data analytics, and many more!
-- 😄 Feel free to explore my repositories—I hope you discover something valuable!
+
+### 👨‍💻 About Me
+
+I'm a Software Engineer with experience building and operating backend systems in production.
+
+* 🚀 Previously Software Engineer II at Eventbrite
+* ☁️ Experienced with AWS, serverless architectures, distributed systems, and backend development
+* 🔍 Built and owned a large-scale search platform using MySQL, Spark, and Airflow
+* 📊 Worked on data ingestion pipelines, ETL workflows, and production infrastructure
+* 🛠️ Passionate about system design, performance optimization, and solving complex production issues
+* 🌱 Currently building a fleet surveillance platform focused on vehicle tracking, alerts, recording, and analytics
 
 <img src="readmeGIF.gif" />
 
-<!-- About section: END -->
- 
-<!-- GitHub section -->
+### 🧰 Tech Stack
 
- ##  My GitHub Stats <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px> 
- 
-<div>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nish616&langs_count=10&show_icons=true&locale=en&layout=compact&theme=light" alt="Gift's language" height="192px"  width="500px"/>
-</div>
+`TypeScript` `JavaScript` `Node.js` `AWS` `MySQL` `PostgreSQL`
+`Apache Spark` `Airflow` `Docker` `Terraform` `Serverless`
+`React` `Redis` `GitHub Actions`
 
-<details>
-  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=nish616&show_icons=true" />
-</details>
+---
 
-<!-- GitHub section: END -->
+### 📫 Connect With Me
 
-
-<!--
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* LinkedIn: https://www.linkedin.com/in/nishins616/

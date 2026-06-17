@@ -22,7 +22,9 @@ I'm a Software Engineer with experience building and operating backend systems i
 * 🛠️ Passionate about system design, performance optimization, and solving complex production issues
 * 🌱 Currently building a fleet surveillance platform focused on vehicle tracking, alerts, recording, and analytics
 
-<img src="readmeGIF.gif" />
+<p align="center">
+  <img src="readmeGIF.gif" />
+</p>
 
 ### 🧰 Tech Stack
 

@@ -20,7 +20,7 @@ I'm a Software Engineer with experience building and operating backend systems i
 * 🔍 Built and owned a large-scale search platform using MySQL, Spark, and Airflow
 * 📊 Worked on data ingestion pipelines, ETL workflows, and production infrastructure
 * 🛠️ Passionate about system design, performance optimization, and solving complex production issues
-* 🌱 Currently building a fleet surveillance platform focused on vehicle tracking, alerts, recording, and analytics
+* 🌱 Also has experience in building fleet surveillance platforms focused on vehicle tracking, alerts, recording, and analytics
 
 <p align="center">
   <img src="readmeGIF.gif" />
